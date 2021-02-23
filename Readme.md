@@ -1,8 +1,43 @@
-# Projeto Final LP-2
-Projeto em java para a leitura e escrita de arquivos. O programa lê uma lista de canditados de um concurso de um arquivo txt e imprime os melhores colocados, dada as regras estabelecidas, além de gerar um arquivo txt de saída com a posição, nome, idade e nota do canditado. O projeto faz parte da uma avaliação da disciplina Linguagem de Programação 2.
+## Projeto Final LP-2
+Programa em **Java** para a leitura e escrita de um arquivo. 
 
-## Rodando
-Bastar executar o arquivo .jar na pasta out/artifacts/Projeto_FInal_LP2_jar ou compilar o arquivo App na pasta src/App.
+## Motivação
+ O projeto foi desenvolvido como parte da uma avaliação da disciplina Linguagem de Programação 2.
 
-## Requisitos
-Ter o [Java](https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html) instalado em sua máquina e para compilar é necessário ter também o [Jdk](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html?ssSourceSiteId=otnpt).
+## Estilo de Código
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+
+## Screenshots
+
+## Tecnologias
+[**JAVA**](https://www.java.com)
+
+<b>Built with</b>
+- [Java Swing](https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html)
+
+## Ferramentas
+- Lê o conteúdo do arquivo fornecido.
+- Gera e imprime uma lista com os melhores colocados (de acordo com especificações do problema).
+- Gera um arquivo txt de saída com a posição, nome, idade e nota de cada canditado.
+
+## Instalação
+Prérequisitos para compilar este Projeto:
+* Git
+
+* Java 8 ou 11 (Java 9 ou 10 talvez funcionem)
+```
+git clone https://github.com/Andre0n/Projeto-Final-Lp2.git
+cd Projeto-Final-Lp2
+javac -classpath . src/App/App.java src/App/Candidato.java     
+```
+### IntelliJ IDEA
+
+Este projeto foi desenvolvido nesta IDE e pode funcionar melhor se você usá-la.
+
+* IntelliJ download: [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
+
+Cheque por [Setting up IntelliJ](https://confluence.jetbrains.com/pages/viewpage.action?pageId=54920165) guia  para detalhes.
+
+## License
+
+MIT © [André Gabriel]()
