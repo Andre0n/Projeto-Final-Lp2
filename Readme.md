@@ -1,4 +1,4 @@
-## Projeto Final LP-2
+# Projeto Final LP-2
 Programa em **Java** para a leitura e escrita de um arquivo. 
 
 ## Motivação
