@@ -16,10 +16,11 @@ Programa em **Java** para a leitura e escrita de um arquivo.
 <b>Built with</b>
 - [Java Swing](https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html)
 
-## Ferramentas
+## Fucionalidades
 - Lê o conteúdo do arquivo fornecido.
 - Gera e imprime uma lista com os melhores colocados (de acordo com especificações do problema).
 - Gera um arquivo txt de saída com a posição, nome, idade e nota de cada canditado.
+- Conta com interface gráfica desenvolvida usando Java Swing.
 
 ## Instalação
 Prérequisitos para compilar este Projeto:
