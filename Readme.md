@@ -8,7 +8,7 @@ Programa em **Java** para a leitura e escrita de um arquivo.
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 ## Screenshots
-![Program Photo](https://github.com/Andre0n/Projeto-Final-Lp2/blob/main/scrrenshot.tif)
+<img src= "https://github.com/Andre0n/Projeto-Final-Lp2/blob/master/scrrenshot.png">
 
 ## Tecnologias
 [**JAVA**](https://www.java.com)
